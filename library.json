@@ -5,8 +5,8 @@
   "repository":
   {
     "type": "git",
-    "url": "https://github.com/0xPIT/encoder.git"
+    "url": "https://github.com/jahartley/encoder.git"
   },
   "frameworks": "arduino",
-  "platforms": "atmelavr"
+  "platforms": "stm32"
 }
